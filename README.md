@@ -41,6 +41,16 @@ docker build -t trainingmug-dashboard .
 docker run -p 3000:3000 trainingmug-dashboard
 ```
 
+### Pull Image From Docker Hub
+[Docker Hub - TrainingMug Dashboard Assignment](https://hub.docker.com/r/01sriharsha/trainingmug-dashboard-assignment/tags)
+
+```bash
+docker pull 01sriharsha/trainingmug-dashboard-assignment:latest
+```
+
+### Deployed On Vercel
+[Vercel - TrainingMug Dashboard Assignment](https://trainingmug-dashboard.vercel.app/)
+
 
 ## Author
 ### K Sriharsha
